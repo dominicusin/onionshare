@@ -27,7 +27,7 @@ requests = {extras = ["socks"], version = ">=2.32.3"}
 unidecode = "*"
 urllib3 = "^2.7"
 eventlet = "*"
-setuptools = "^80"
+setuptools = ">=80,<84"
 pynacl = "^1.6.2"
 colorama = "*"
 gevent-websocket = "*"
